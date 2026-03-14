@@ -40,11 +40,9 @@ Editable_Inputs/
 02 PyScripts Magallanes/Kit_Transferencia_Cliente/output/
 
 # Figuras generadas (reproducibles ejecutando los scripts)
-02 PyScripts Magallanes/Figuras_Obs6_ModeloSubterraneo/
 02 PyScripts Magallanes/Figuras_Obs7_ModeloSuperficial/
 02 PyScripts Magallanes/Figuras_Obs6_Obs7_Balance/
 02 PyScripts Magallanes/Figuras_Pozos_Acuifero/
-02 PyScripts Magallanes/Figuras_3D_Leapfrog/
 
 # HTML interactivo de pozos (generado por script)
 02 PyScripts Magallanes/mapa_pozos_interactivo.html
