@@ -1,0 +1,27 @@
+﻿Pozo,Prof_Desde_m,Prof_Hasta_m,Estratigrafia,UH,UH_Descripcion,Este UTM WGS84 H19S,Norte UTM WGS84 H19S
+ND-1202-1299,0.0,0.3,Capa vegetal,UH-0,Suelo orgánico / Cobertura vegetal,331957.0,4230484.0
+ND-1202-1299,0.3,3.0,Arcilla amarilla,UH-2,Arcillas y limos – Acuítardo / Acuicludo,331957.0,4230484.0
+ND-1202-1299,3.0,12.0,Arena y grava,UH-1,Depósitos fluvioglaciares permeables – Acuífero libre,331957.0,4230484.0
+ND-1202-1299,12.0,42.0,Grava y piedra (acuífero),UH-1,Depósitos fluvioglaciares permeables – Acuífero libre,331957.0,4230484.0
+ND-1202-1299,42.0,43.0,Grava y arcilla gris,UH-3,Mezcla arena-arcilla / grava-limo – Acuífero baja permeabilidad,331957.0,4230484.0
+ND-1203-765,0.0,1.5,Perfil orgánico,UH-0,Suelo orgánico / Cobertura vegetal,500362.0,4100774.0
+ND-1203-765,1.5,4.0,Arcilla café,UH-2,Arcillas y limos – Acuítardo / Acuicludo,500362.0,4100774.0
+ND-1203-765,4.0,6.0,Arcilla café - gravilla,UH-3,Mezcla arena-arcilla / grava-limo – Acuífero baja permeabilidad,500362.0,4100774.0
+ND-1203-765,6.0,9.0,Arcilla café - arena gruesa,UH-3,Mezcla arena-arcilla / grava-limo – Acuífero baja permeabilidad,500362.0,4100774.0
+ND-1203-765,9.0,11.0,Arenisca café,UH-4,Areniscas y sedimentitas – Acuífero sedimentario,500362.0,4100774.0
+ND-1203-765,11.0,13.0,Arenisca gris,UH-4,Areniscas y sedimentitas – Acuífero sedimentario,500362.0,4100774.0
+ND-1203-765,13.0,13.5,Arena fina,UH-1,Depósitos fluvioglaciares permeables – Acuífero libre,500362.0,4100774.0
+ND-1203-765,13.5,22.0,Arenisca gris,UH-4,Areniscas y sedimentitas – Acuífero sedimentario,500362.0,4100774.0
+ND-1203-765,22.0,25.0,Arcilla gris - arena fina,UH-3,Mezcla arena-arcilla / grava-limo – Acuífero baja permeabilidad,500362.0,4100774.0
+ND-1203-765,25.0,32.0,Arcilla gris,UH-2,Arcillas y limos – Acuítardo / Acuicludo,500362.0,4100774.0
+ND-1203-765,32.0,36.0,Arena gruesa,UH-1,Depósitos fluvioglaciares permeables – Acuífero libre,500362.0,4100774.0
+ND-1203-765,36.0,38.0,Limo - arena,UH-3,Mezcla arena-arcilla / grava-limo – Acuífero baja permeabilidad,500362.0,4100774.0
+ND-1203-765,38.0,42.0,Arena - gravilla,UH-1,Depósitos fluvioglaciares permeables – Acuífero libre,500362.0,4100774.0
+ND-1203-765,42.0,46.0,Arenisca,UH-4,Areniscas y sedimentitas – Acuífero sedimentario,500362.0,4100774.0
+ND-1203-765,46.0,48.0,Arcilla café,UH-2,Arcillas y limos – Acuítardo / Acuicludo,500362.0,4100774.0
+ND-1203-723,0.0,115.0,"Depósitos Fluvioglaciares (gravas, arenas, limos glaciales)",UH-1,Depósitos fluvioglaciares permeables – Acuífero libre,450184.0,4144485.0
+ND-1203-723,115.0,140.5,Formación Palomares (areniscas confinadas – nivel artesiano),UH-5,Formación Palomares (areniscas confinadas) – Acuífero artesiano,450184.0,4144485.0
+ND-1203-724,0.0,38.0,"Depósitos Fluvioglaciares (gravas, arenas, limos glaciales)",UH-1,Depósitos fluvioglaciares permeables – Acuífero libre,458714.0,4142414.0
+ND-1203-724,38.0,80.5,Formación Palomares (areniscas confinadas – nivel artesiano),UH-5,Formación Palomares (areniscas confinadas) – Acuífero artesiano,458714.0,4142414.0
+ND-1203-725,0.0,161.0,"Depósitos Fluvioglaciares (gravas, arenas, limos glaciales)",UH-1,Depósitos fluvioglaciares permeables – Acuífero libre,449672.0,4148398.0
+ND-1203-725,161.0,186.5,Formación Palomares (areniscas confinadas – nivel artesiano),UH-5,Formación Palomares (areniscas confinadas) – Acuífero artesiano,449672.0,4148398.0

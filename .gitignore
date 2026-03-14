@@ -1,0 +1,64 @@
+# ─────────────────────────────────────────────
+# macOS
+# ─────────────────────────────────────────────
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# ─────────────────────────────────────────────
+# Entornos virtuales Python
+# ─────────────────────────────────────────────
+.venv/
+.venv_cliente/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# ─────────────────────────────────────────────
+# Datos pesados — NO versionar
+# ─────────────────────────────────────────────
+# Etapa 1: geodatabases, rasters, PDFs, imágenes grandes (8.2 GB)
+01 Etapa 1/
+
+# SIG: shapefiles + rasters base (101 MB) — excluir si no se quiere versionar datos
+03 SIG Magallanes/
+
+# DEM Copernicus y rasters generados (228 MB)
+02 PyScripts Magallanes/DEM_Copernicus_30m/
+
+# Inputs editables copiados (36 MB)
+Editable_Inputs/
+
+# ─────────────────────────────────────────────
+# Paquetes de entrega / outputs generados
+# ─────────────────────────────────────────────
+# ZIPs de transferencia al cliente (31 GB)
+02 PyScripts Magallanes/Kit_Transferencia_Cliente/output/
+
+# Figuras generadas (reproducibles ejecutando los scripts)
+02 PyScripts Magallanes/Figuras_Obs6_ModeloSubterraneo/
+02 PyScripts Magallanes/Figuras_Obs7_ModeloSuperficial/
+02 PyScripts Magallanes/Figuras_Obs6_Obs7_Balance/
+02 PyScripts Magallanes/Figuras_Pozos_Acuifero/
+02 PyScripts Magallanes/Figuras_3D_Leapfrog/
+
+# HTML interactivo de pozos (generado por script)
+02 PyScripts Magallanes/mapa_pozos_interactivo.html
+
+# ─────────────────────────────────────────────
+# Archivos de configuración con credenciales
+# ─────────────────────────────────────────────
+02 PyScripts Magallanes/Kit_Transferencia_Cliente/config/.env
+02 PyScripts Magallanes/Kit_Transferencia_Cliente/config/project_config.yaml
+
+# ─────────────────────────────────────────────
+# Otros temporales
+# ─────────────────────────────────────────────
+*.log
+*.tmp
+*.bak
+~$*

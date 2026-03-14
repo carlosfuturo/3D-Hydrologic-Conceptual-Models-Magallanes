@@ -1,0 +1,25 @@
+# Copiar este archivo como project_config.yaml y ajustar rutas/credenciales.
+project:
+  name: "Magallanes - Observaciones DGA 6 y 7"
+  epsg: 32719
+  timezone: "America/Punta_Arenas"
+
+paths:
+  # Ajustar si el cliente instala en otra ruta.
+  project_root: ".."
+  figuras_3d_dir: "../Figuras_3D_Leapfrog"
+  dem_dir: "../DEM_Copernicus_30m"
+  sig_dir: "../../03 SIG Magallanes"
+  anexos_sig_dir: "../../01 Etapa 1/Anexos/Anexo E - SIG"
+
+portal:
+  enabled: true
+  url: "https://idiem.maps.arcgis.com"
+  username: ""
+  # No almacenar contrasena en texto plano. Usar variable de entorno AGOL_PASSWORD.
+
+execution:
+  run_smoke_first: true
+  stop_on_error: true
+  write_logs: true
+  log_dir: "../Kit_Transferencia_Cliente/output"

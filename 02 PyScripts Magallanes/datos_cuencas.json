@@ -1,0 +1,293 @@
+{
+  "Penitente": {
+    "shapefile": "/Users/carlosfloresarenas/Documents/Proyectos/Flores/IDIEM/01 Magallanes/01 Etapa 1/Anexos/Anexo E - SIG/04_Geodatabases/PERHC/cuenca_rio_penitente.shp",
+    "red_hidro": "/Users/carlosfloresarenas/Documents/Proyectos/Flores/IDIEM/01 Magallanes/01 Etapa 1/Anexos/Anexo E - SIG/04_Geodatabases/PERHC/red_hidro_penitente.shp",
+    "nombre_completo": "Cuenca del Río Penitente",
+    "codigo_BNA": "1221",
+    "area_km2": 1750.41,
+    "perim_km": 318.05,
+    "elevacion_max_m": 1400,
+    "elevacion_min_m": 10,
+    "elevacion_media_m": 400,
+    "pendiente_media_pct": 8.5,
+    "PP_media_anual_mm": 120,
+    "T_media_anual_C": 8.0,
+    "ETP_anual_mm": 450,
+    "ETR_anual_mm": 110,
+    "koppen": "BSk",
+    "koppen_desc": "Clima semiárido frío de estepa",
+    "Q_medio_anual_m3s": 3.2,
+    "Q_especifico_Ls_km2": 1.8,
+    "caudal_rendimiento_mm": 57,
+    "shac": "SHAC Penitente",
+    "tipo_acuifero": "Libre",
+    "litologia_acuifero": "Gravas y arenas fluvioglaciales (Cuaternario)",
+    "espesor_acuifero_m": [
+      5,
+      25
+    ],
+    "sustrato": "Fm. Loreto (Eoceno) - Lutitas y areniscas, baja permeabilidad",
+    "profundidad_NBF_m": [
+      2,
+      8
+    ],
+    "conductividad_hid_md": [
+      5,
+      50
+    ],
+    "recarga_especifica_pct_pp": 8,
+    "recarga_mm_anual": 10,
+    "demanda_total_Ls": 28.5,
+    "demanda_consumo_humano_Ls": 2.1,
+    "demanda_ganaderia_Ls": 26.4,
+    "DAA_subterraneo_Ls": 2.3,
+    "longitud_cauce_principal_km": 95.0,
+    "orden_maximo_strahler": 4,
+    "cuerpos_lacustres_n": 6,
+    "area_lacustre_km2": 3.2,
+    "glaciares_presencia": false,
+    "estaciones_fluviometricas": [
+      "Penitente en Morro Chico (12700002-4)"
+    ],
+    "estaciones_meteorologicas": [
+      "Morro Chico-DGA"
+    ],
+    "factor_forma_Kc": 2.144,
+    "tiempo_concentracion_h": 0.1,
+    "coeficiente_escorrentia": 0.475,
+    "balance_hidrico_mm": {
+      "P": 120,
+      "ETR": 110,
+      "Q_sup": 57,
+      "Recarga_sbt": 10,
+      "Cierre_balance": -57
+    },
+    "red_hidrica_stats": {
+      "longitud_total_km": 364.18,
+      "n_tramos": 37,
+      "tipos": {
+        "RIO": 156.45,
+        "QUEBRADA": 207.73000000000002
+      }
+    },
+    "lagos": [
+      {
+        "nombre": "SN",
+        "area_km2": 0.17
+      },
+      {
+        "nombre": "SN",
+        "area_km2": 0.12
+      },
+      {
+        "nombre": "SN",
+        "area_km2": 0.31
+      }
+    ]
+  },
+  "El Oro": {
+    "shapefile": "/Users/carlosfloresarenas/Documents/Proyectos/Flores/IDIEM/01 Magallanes/01 Etapa 1/Anexos/Anexo E - SIG/04_Geodatabases/PERHC/cuenca_rio_del_oro.shp",
+    "red_hidro": "/Users/carlosfloresarenas/Documents/Proyectos/Flores/IDIEM/01 Magallanes/01 Etapa 1/Anexos/Anexo E - SIG/04_Geodatabases/PERHC/red_hidro_oro.shp",
+    "nombre_completo": "Cuenca del Río El Oro",
+    "codigo_BNA": "1281",
+    "area_km2": 706.8,
+    "perim_km": 263.97,
+    "elevacion_max_m": 800,
+    "elevacion_min_m": 20,
+    "elevacion_media_m": 250,
+    "pendiente_media_pct": 12.0,
+    "PP_media_anual_mm": 900,
+    "T_media_anual_C": 6.0,
+    "ETP_anual_mm": 380,
+    "ETR_anual_mm": 380,
+    "koppen": "Csc",
+    "koppen_desc": "Clima mediterráneo frío de lluvia invernal",
+    "Q_medio_anual_m3s": 10.5,
+    "Q_especifico_Ls_km2": 14.9,
+    "caudal_rendimiento_mm": 468,
+    "shac": "SHAC Río Oro",
+    "tipo_acuifero": "Libre",
+    "litologia_acuifero": "Gravas y arenas glaciofluviales (Cuaternario TF)",
+    "espesor_acuifero_m": [
+      5,
+      30
+    ],
+    "sustrato": "Fm. Latorre / Complejo Tobífera - Rocas metamórficas e ígneas",
+    "profundidad_NBF_m": [
+      1,
+      6
+    ],
+    "conductividad_hid_md": [
+      8,
+      80
+    ],
+    "recarga_especifica_pct_pp": 12,
+    "recarga_mm_anual": 108,
+    "demanda_total_Ls": 45.2,
+    "demanda_consumo_humano_Ls": 3.5,
+    "demanda_ganaderia_Ls": 41.7,
+    "DAA_subterraneo_Ls": 4.1,
+    "longitud_cauce_principal_km": 76.4,
+    "orden_maximo_strahler": 4,
+    "cuerpos_lacustres_n": 8,
+    "area_lacustre_km2": 12.5,
+    "glaciares_presencia": true,
+    "glaciares_area_km2": 2.1,
+    "estaciones_fluviometricas": [
+      "Oro en Bahía San Felipe (12800002-K)"
+    ],
+    "estaciones_meteorologicas": [
+      "Vicuña-DGA (TDF)"
+    ],
+    "factor_forma_Kc": 2.801,
+    "tiempo_concentracion_h": 0.07,
+    "coeficiente_escorrentia": 0.52,
+    "balance_hidrico_mm": {
+      "P": 900,
+      "ETR": 380,
+      "Q_sup": 468,
+      "Recarga_sbt": 108,
+      "Cierre_balance": -56
+    },
+    "red_hidrica_stats": {
+      "longitud_total_km": 116.08,
+      "n_tramos": 6,
+      "tipos": {
+        "RIO": 76.4,
+        "ESTERO": 39.68
+      }
+    },
+    "lagos": [
+      {
+        "nombre": "SN",
+        "area_km2": 0.12
+      },
+      {
+        "nombre": "LAGUNA BAQUEDANO",
+        "area_km2": 0.5
+      }
+    ]
+  },
+  "Robalo": {
+    "shapefile": "/Users/carlosfloresarenas/Documents/Proyectos/Flores/IDIEM/01 Magallanes/01 Etapa 1/Anexos/Anexo E - SIG/04_Geodatabases/PERHC/cuenca_rio_robalo.shp",
+    "red_hidro": "/Users/carlosfloresarenas/Documents/Proyectos/Flores/IDIEM/01 Magallanes/01 Etapa 1/Anexos/Anexo E - SIG/04_Geodatabases/PERHC/red_hidro_robalo.shp",
+    "nombre_completo": "Cuenca del Río Róbalo",
+    "codigo_BNA": "1280",
+    "area_km2": 22.0,
+    "perim_km": 24.07,
+    "elevacion_max_m": 510,
+    "elevacion_min_m": 50,
+    "elevacion_media_m": 250,
+    "pendiente_media_pct": 38.0,
+    "PP_media_anual_mm": 700,
+    "T_media_anual_C": 4.0,
+    "ETP_anual_mm": 280,
+    "ETR_anual_mm": 280,
+    "koppen": "ET",
+    "koppen_desc": "Clima de tundra",
+    "Q_medio_anual_m3s": 0.45,
+    "Q_especifico_Ls_km2": 20.5,
+    "caudal_rendimiento_mm": 646,
+    "shac": "SHAC Puerto Williams",
+    "tipo_acuifero": "Fisurado/Limitado",
+    "litologia_acuifero": "Roca fisurada (Complejo granítico - Batolito H. Moreno)",
+    "espesor_acuifero_m": [
+      0,
+      5
+    ],
+    "sustrato": "Batolito Hornos-Moreno - Granitos y granodioritas (Paleozoico)",
+    "profundidad_NBF_m": [
+      0,
+      2
+    ],
+    "conductividad_hid_md": [
+      0.1,
+      5
+    ],
+    "recarga_especifica_pct_pp": 5,
+    "recarga_mm_anual": 35,
+    "demanda_total_Ls": 12.0,
+    "demanda_consumo_humano_Ls": 12.0,
+    "demanda_ganaderia_Ls": 0.0,
+    "DAA_subterraneo_Ls": 0.0,
+    "longitud_cauce_principal_km": 3.65,
+    "orden_maximo_strahler": 2,
+    "cuerpos_lacustres_n": 2,
+    "area_lacustre_km2": 0.3,
+    "glaciares_presencia": false,
+    "estaciones_fluviometricas": [
+      "Róbalo en Puerto Williams (12200001-9)"
+    ],
+    "estaciones_meteorologicas": [
+      "Puerto Williams-DMC",
+      "Puerto Williams-DGA"
+    ],
+    "factor_forma_Kc": 1.448,
+    "tiempo_concentracion_h": 0.0,
+    "coeficiente_escorrentia": 0.923,
+    "balance_hidrico_mm": {
+      "P": 700,
+      "ETR": 280,
+      "Q_sup": 646,
+      "Recarga_sbt": 35,
+      "Cierre_balance": -261
+    },
+    "red_hidrica_stats": {
+      "longitud_total_km": 3.65,
+      "n_tramos": 1,
+      "tipos": {
+        "RIO": 3.65
+      }
+    },
+    "lagos": [
+      {
+        "nombre": "SN",
+        "area_km2": 0.29
+      },
+      {
+        "nombre": "SN",
+        "area_km2": 0.01
+      },
+      {
+        "nombre": "SN",
+        "area_km2": 0.01
+      },
+      {
+        "nombre": "SN",
+        "area_km2": 0.07
+      },
+      {
+        "nombre": "SN",
+        "area_km2": 0.03
+      },
+      {
+        "nombre": "SN",
+        "area_km2": 0.04
+      },
+      {
+        "nombre": "SN",
+        "area_km2": 0.01
+      },
+      {
+        "nombre": "SN",
+        "area_km2": 0.02
+      },
+      {
+        "nombre": "SN",
+        "area_km2": 0.01
+      },
+      {
+        "nombre": "SN",
+        "area_km2": 0.04
+      },
+      {
+        "nombre": "SN",
+        "area_km2": 0.05
+      },
+      {
+        "nombre": "SN",
+        "area_km2": 0.05
+      }
+    ]
+  }
+}

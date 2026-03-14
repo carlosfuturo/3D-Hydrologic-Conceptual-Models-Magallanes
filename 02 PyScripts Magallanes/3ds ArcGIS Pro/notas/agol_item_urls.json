@@ -1,0 +1,46 @@
+{
+  "Magallanes 3D - Cuenca Penitente": {
+    "item_id": "18b42e85c92046008bdf54d5ce4bc282",
+    "url_data": "https://idiem.maps.arcgis.com/sharing/rest/content/items/18b42e85c92046008bdf54d5ce4bc282/data",
+    "url_item": "https://idiem.maps.arcgis.com/home/item.html?id=18b42e85c92046008bdf54d5ce4bc282",
+    "archivo": "3D_Leapfrog_Penitente.html",
+    "size_mb": 1.17,
+    "url_app": "https://idiem.maps.arcgis.com/sharing/rest/content/items/18b42e85c92046008bdf54d5ce4bc282/data",
+    "url_public": "https://idiem.maps.arcgis.com/sharing/rest/content/items/18b42e85c92046008bdf54d5ce4bc282/data"
+  },
+  "Magallanes 3D - Cuenca El Oro": {
+    "item_id": "2bc3c95de6e045058711d129c59d8101",
+    "url_data": "https://idiem.maps.arcgis.com/sharing/rest/content/items/2bc3c95de6e045058711d129c59d8101/data",
+    "url_item": "https://idiem.maps.arcgis.com/home/item.html?id=2bc3c95de6e045058711d129c59d8101",
+    "archivo": "3D_Leapfrog_El_Oro.html",
+    "size_mb": 0.41,
+    "url_app": "https://idiem.maps.arcgis.com/sharing/rest/content/items/2bc3c95de6e045058711d129c59d8101/data",
+    "url_public": "https://idiem.maps.arcgis.com/sharing/rest/content/items/2bc3c95de6e045058711d129c59d8101/data"
+  },
+  "Magallanes 3D - Cuenca Robalo": {
+    "item_id": "51348d2ca7c84f4392582e6077a0bbe6",
+    "url_data": "https://idiem.maps.arcgis.com/sharing/rest/content/items/51348d2ca7c84f4392582e6077a0bbe6/data",
+    "url_item": "https://idiem.maps.arcgis.com/home/item.html?id=51348d2ca7c84f4392582e6077a0bbe6",
+    "archivo": "3D_Leapfrog_Robalo.html",
+    "size_mb": 0.26,
+    "url_app": "https://idiem.maps.arcgis.com/sharing/rest/content/items/51348d2ca7c84f4392582e6077a0bbe6/data",
+    "url_public": "https://idiem.maps.arcgis.com/sharing/rest/content/items/51348d2ca7c84f4392582e6077a0bbe6/data"
+  },
+  "Magallanes 3D - Modelo Combinado": {
+    "item_id": "fffd299b7303413e8c2863e389163367",
+    "url_data": "https://idiem.maps.arcgis.com/sharing/rest/content/items/fffd299b7303413e8c2863e389163367/data",
+    "url_item": "https://idiem.maps.arcgis.com/home/item.html?id=fffd299b7303413e8c2863e389163367",
+    "archivo": "3D_Leapfrog_COMBO_3Cuencas.html",
+    "size_mb": 1.82,
+    "url_app": "https://idiem.maps.arcgis.com/sharing/rest/content/items/fffd299b7303413e8c2863e389163367/data",
+    "url_public": "https://idiem.maps.arcgis.com/sharing/rest/content/items/fffd299b7303413e8c2863e389163367/data"
+  },
+  "Magallanes 3D - Visor Interactivo": {
+    "item_id": "70f742bf784e4304aa18950c0c0045a6",
+    "url_item": "https://idiem.maps.arcgis.com/home/item.html?id=70f742bf784e4304aa18950c0c0045a6",
+    "url_open": "https://idiem.maps.arcgis.com/home/notebook/notebook.html?id=70f742bf784e4304aa18950c0c0045a6",
+    "archivo": "02_notebook_viewer.ipynb",
+    "url_app": "https://idiem.maps.arcgis.com/sharing/rest/content/items/70f742bf784e4304aa18950c0c0045a6/data",
+    "url_public": "https://idiem.maps.arcgis.com/sharing/rest/content/items/70f742bf784e4304aa18950c0c0045a6/data"
+  }
+}

@@ -1,0 +1,1166 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::32719"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          527849.0,
+          3911650.0
+        ]
+      },
+      "properties": {
+        "codigo": "ND-1204-443",
+        "nombre": "",
+        "cuenca": "Robalo",
+        "tipo_derecho": "Superficial",
+        "subterranea": false,
+        "surgente": false,
+        "titular": "ROSARIO AGUILAR AGUILAR",
+        "estado": "No concedido",
+        "datum_orig": 1984,
+        "prof_m": null,
+        "ne_m": null,
+        "nd_m": null,
+        "caudal_ls": null,
+        "acuifero_ini": null,
+        "acuifero_fin": null,
+        "estrat": "",
+        "observaciones": "nan",
+        "expediente": "NO TIENE",
+        "fuente": "Derechos_de_Agua.xlsx",
+        "vol_mee_m3a": null,
+        "cod_mee": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          348026.7,
+          4214071.3
+        ]
+      },
+      "properties": {
+        "codigo": "ND-1202-661/1",
+        "nombre": "",
+        "cuenca": "Penitente",
+        "tipo_derecho": "Subterranea",
+        "subterranea": true,
+        "surgente": false,
+        "titular": "EDDIE MANUEL VARGAS MACIAS",
+        "estado": "Concedido",
+        "datum_orig": 1969,
+        "prof_m": 32.0,
+        "ne_m": null,
+        "nd_m": null,
+        "caudal_ls": 2.0,
+        "acuifero_ini": null,
+        "acuifero_fin": null,
+        "estrat": "",
+        "observaciones": "Poza de diametro 0,1 m. profundidad 32 m.",
+        "expediente": "No tiene",
+        "fuente": "Derechos_de_Agua.xlsx",
+        "vol_mee_m3a": null,
+        "cod_mee": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          346173.8,
+          4210087.5
+        ]
+      },
+      "properties": {
+        "codigo": "ND-1202-663/1",
+        "nombre": "",
+        "cuenca": "Penitente",
+        "tipo_derecho": "Subterranea",
+        "subterranea": true,
+        "surgente": false,
+        "titular": "EDDIE MANUEL VARGAS MACIAS",
+        "estado": "Concedido",
+        "datum_orig": 1969,
+        "prof_m": 0.6,
+        "ne_m": null,
+        "nd_m": null,
+        "caudal_ls": 0.55,
+        "acuifero_ini": null,
+        "acuifero_fin": null,
+        "estrat": "",
+        "observaciones": "Noria de diametro 1,8 y profundidad 0,6m.",
+        "expediente": "No tiene",
+        "fuente": "Derechos_de_Agua.xlsx",
+        "vol_mee_m3a": null,
+        "cod_mee": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          328265.0,
+          4219518.0
+        ]
+      },
+      "properties": {
+        "codigo": "ND-1202-1288/1",
+        "nombre": "",
+        "cuenca": "Penitente",
+        "tipo_derecho": "Subterranea",
+        "subterranea": true,
+        "surgente": false,
+        "titular": "BOPAR S.A.",
+        "estado": "Concedido",
+        "datum_orig": 1984,
+        "prof_m": null,
+        "ne_m": null,
+        "nd_m": null,
+        "caudal_ls": 1.7,
+        "acuifero_ini": null,
+        "acuifero_fin": null,
+        "estrat": "",
+        "observaciones": "Es un hoyo, no un pozo como tal.",
+        "expediente": "Prueba de bombeo y estrati.",
+        "fuente": "Derechos_de_Agua.xlsx",
+        "vol_mee_m3a": null,
+        "cod_mee": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          323845.0,
+          4227818.0
+        ]
+      },
+      "properties": {
+        "codigo": "ND-1202-1284/1",
+        "nombre": "",
+        "cuenca": "Penitente",
+        "tipo_derecho": "Subterranea",
+        "subterranea": true,
+        "surgente": false,
+        "titular": "BOPAR S.A.",
+        "estado": "Concedido",
+        "datum_orig": 1984,
+        "prof_m": null,
+        "ne_m": null,
+        "nd_m": null,
+        "caudal_ls": 6.08,
+        "acuifero_ini": null,
+        "acuifero_fin": null,
+        "estrat": "",
+        "observaciones": "Es un hoyo, no un pozo como tal.",
+        "expediente": "Prueba de bombeo y estrati. (idem anterior)",
+        "fuente": "Derechos_de_Agua.xlsx",
+        "vol_mee_m3a": null,
+        "cod_mee": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          324733.0,
+          4228432.0
+        ]
+      },
+      "properties": {
+        "codigo": "ND-1202-1286/1",
+        "nombre": "",
+        "cuenca": "Penitente",
+        "tipo_derecho": "Subterranea",
+        "subterranea": true,
+        "surgente": false,
+        "titular": "BOPAR S.A.",
+        "estado": "Concedido",
+        "datum_orig": 1984,
+        "prof_m": null,
+        "ne_m": null,
+        "nd_m": null,
+        "caudal_ls": 2.46,
+        "acuifero_ini": null,
+        "acuifero_fin": null,
+        "estrat": "",
+        "observaciones": "Es un hoyo, no un pozo como tal.",
+        "expediente": "Prueba de bombeo y estrati. (idem anterior)",
+        "fuente": "Derechos_de_Agua.xlsx",
+        "vol_mee_m3a": null,
+        "cod_mee": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          326316.0,
+          4227923.0
+        ]
+      },
+      "properties": {
+        "codigo": "ND-1202-1285/1",
+        "nombre": "",
+        "cuenca": "Penitente",
+        "tipo_derecho": "Subterranea",
+        "subterranea": true,
+        "surgente": false,
+        "titular": "BOPAR S.A.",
+        "estado": "Concedido",
+        "datum_orig": 1984,
+        "prof_m": null,
+        "ne_m": null,
+        "nd_m": null,
+        "caudal_ls": 5.7,
+        "acuifero_ini": null,
+        "acuifero_fin": null,
+        "estrat": "",
+        "observaciones": "Es un hoyo, no un pozo como tal.",
+        "expediente": "Prueba de bombeo y estrati. (idem anterior)",
+        "fuente": "Derechos_de_Agua.xlsx",
+        "vol_mee_m3a": null,
+        "cod_mee": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          364045.0,
+          4191710.0
+        ]
+      },
+      "properties": {
+        "codigo": "ND-1202-1320",
+        "nombre": "",
+        "cuenca": "Penitente",
+        "tipo_derecho": "Subterránea",
+        "subterranea": true,
+        "surgente": false,
+        "titular": "GANADERA APENRADE LTDA",
+        "estado": "No concedido",
+        "datum_orig": 1984,
+        "prof_m": null,
+        "ne_m": null,
+        "nd_m": null,
+        "caudal_ls": null,
+        "acuifero_ini": null,
+        "acuifero_fin": null,
+        "estrat": "",
+        "observaciones": "nan",
+        "expediente": "Prueba de bombeo y estrati.",
+        "fuente": "Derechos_de_Agua.xlsx",
+        "vol_mee_m3a": null,
+        "cod_mee": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          364045.0,
+          4191710.0
+        ]
+      },
+      "properties": {
+        "codigo": "ND-1202-1325",
+        "nombre": "",
+        "cuenca": "Penitente",
+        "tipo_derecho": "SUBTERRÁNEA",
+        "subterranea": true,
+        "surgente": false,
+        "titular": "GANADERA APENRADE",
+        "estado": "No concedido",
+        "datum_orig": 1984,
+        "prof_m": null,
+        "ne_m": null,
+        "nd_m": null,
+        "caudal_ls": null,
+        "acuifero_ini": null,
+        "acuifero_fin": null,
+        "estrat": "",
+        "observaciones": "Pozo profundo (60 metros), con estratigrafía",
+        "expediente": "Prueba de bombeo y estrati.",
+        "fuente": "Derechos_de_Agua.xlsx",
+        "vol_mee_m3a": null,
+        "cod_mee": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          341379.0,
+          4235225.0
+        ]
+      },
+      "properties": {
+        "codigo": "ND-1202-1329",
+        "nombre": "",
+        "cuenca": "Penitente",
+        "tipo_derecho": "SUBTERRÁNEA",
+        "subterranea": true,
+        "surgente": false,
+        "titular": "NICOLAS SIMUNOVIC Y BORIS SIMUNOVIC",
+        "estado": "No concedido",
+        "datum_orig": 1984,
+        "prof_m": 55.0,
+        "ne_m": null,
+        "nd_m": null,
+        "caudal_ls": null,
+        "acuifero_ini": null,
+        "acuifero_fin": null,
+        "estrat": "",
+        "observaciones": "Pozo profundo (50 o 60 m), con estratigrafía",
+        "expediente": "Prueba de bombeo y estrati.",
+        "fuente": "Derechos_de_Agua.xlsx",
+        "vol_mee_m3a": null,
+        "cod_mee": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          340552.0,
+          4232204.0
+        ]
+      },
+      "properties": {
+        "codigo": "ND-1202-1330",
+        "nombre": "",
+        "cuenca": "Penitente",
+        "tipo_derecho": "SUBTERRÁNEA",
+        "subterranea": true,
+        "surgente": false,
+        "titular": "NICOLAS SIMUNOVIC Y BORIS SIMUNOVIC",
+        "estado": "No concedido",
+        "datum_orig": 1984,
+        "prof_m": 55.0,
+        "ne_m": null,
+        "nd_m": null,
+        "caudal_ls": null,
+        "acuifero_ini": null,
+        "acuifero_fin": null,
+        "estrat": "",
+        "observaciones": "Pozo profundo (50 o 60 m), con estratigrafía",
+        "expediente": "Prueba de bombeo y estrati.",
+        "fuente": "Derechos_de_Agua.xlsx",
+        "vol_mee_m3a": null,
+        "cod_mee": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          343526.0,
+          4229937.0
+        ]
+      },
+      "properties": {
+        "codigo": "ND-1202-1331",
+        "nombre": "",
+        "cuenca": "Penitente",
+        "tipo_derecho": "SUBTERRÁNEA",
+        "subterranea": true,
+        "surgente": false,
+        "titular": "NICOLAS SIMUNOVIC Y BORIS SIMUNOVIC",
+        "estado": "No concedido",
+        "datum_orig": 1984,
+        "prof_m": 55.0,
+        "ne_m": null,
+        "nd_m": null,
+        "caudal_ls": null,
+        "acuifero_ini": null,
+        "acuifero_fin": null,
+        "estrat": "",
+        "observaciones": "Pozo profundo (50 o 60 m), con estratigrafía",
+        "expediente": "Prueba de bombeo y estrati.",
+        "fuente": "Derechos_de_Agua.xlsx",
+        "vol_mee_m3a": null,
+        "cod_mee": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          352008.0,
+          4233126.0
+        ]
+      },
+      "properties": {
+        "codigo": "ND-1202-1332",
+        "nombre": "",
+        "cuenca": "Penitente",
+        "tipo_derecho": "SUBTERRÁNEA",
+        "subterranea": true,
+        "surgente": false,
+        "titular": "NICOLAS SIMUNOVIC Y BORIS SIMUNOVIC",
+        "estado": "No concedido",
+        "datum_orig": 1984,
+        "prof_m": 55.0,
+        "ne_m": null,
+        "nd_m": null,
+        "caudal_ls": null,
+        "acuifero_ini": null,
+        "acuifero_fin": null,
+        "estrat": "",
+        "observaciones": "Pozo profundo (50 o 60 m), con estratigrafía",
+        "expediente": "Prueba de bombeo y estrati.",
+        "fuente": "Derechos_de_Agua.xlsx",
+        "vol_mee_m3a": null,
+        "cod_mee": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          354628.0,
+          4232880.0
+        ]
+      },
+      "properties": {
+        "codigo": "ND-1202-1333",
+        "nombre": "",
+        "cuenca": "Penitente",
+        "tipo_derecho": "SUBTERRÁNEA",
+        "subterranea": true,
+        "surgente": false,
+        "titular": "NICOLAS SIMUNOVIC Y BORIS SIMUNOVIC",
+        "estado": "No concedido",
+        "datum_orig": 1984,
+        "prof_m": 55.0,
+        "ne_m": null,
+        "nd_m": null,
+        "caudal_ls": null,
+        "acuifero_ini": null,
+        "acuifero_fin": null,
+        "estrat": "",
+        "observaciones": "Pozo profundo (50 o 60 m), con estratigrafía",
+        "expediente": "Prueba de bombeo y estrati.",
+        "fuente": "Derechos_de_Agua.xlsx",
+        "vol_mee_m3a": null,
+        "cod_mee": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          355561.0,
+          4233722.0
+        ]
+      },
+      "properties": {
+        "codigo": "ND-1202-1334",
+        "nombre": "",
+        "cuenca": "Penitente",
+        "tipo_derecho": "SUBTERRÁNEA",
+        "subterranea": true,
+        "surgente": false,
+        "titular": "NICOLAS SIMUNOVIC Y BORIS SIMUNOVIC",
+        "estado": "No concedido",
+        "datum_orig": 1984,
+        "prof_m": 55.0,
+        "ne_m": null,
+        "nd_m": null,
+        "caudal_ls": null,
+        "acuifero_ini": null,
+        "acuifero_fin": null,
+        "estrat": "",
+        "observaciones": "Pozo profundo (50 o 60 m), con estratigrafía",
+        "expediente": "Prueba de bombeo y estrati.",
+        "fuente": "Derechos_de_Agua.xlsx",
+        "vol_mee_m3a": null,
+        "cod_mee": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          442868.0,
+          4140014.0
+        ]
+      },
+      "properties": {
+        "codigo": "ND-1203-521/1",
+        "nombre": "",
+        "cuenca": "Oro",
+        "tipo_derecho": "Subterranea",
+        "subterranea": true,
+        "surgente": false,
+        "titular": "COMUNIDAD PETROVICH - URSIC",
+        "estado": "Concedido",
+        "datum_orig": 1984,
+        "prof_m": null,
+        "ne_m": null,
+        "nd_m": null,
+        "caudal_ls": 4.0,
+        "acuifero_ini": null,
+        "acuifero_fin": null,
+        "estrat": "",
+        "observaciones": "No hay documento. ",
+        "expediente": "No tiene",
+        "fuente": "Derechos_de_Agua.xlsx",
+        "vol_mee_m3a": null,
+        "cod_mee": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          431928.0,
+          4136502.0
+        ]
+      },
+      "properties": {
+        "codigo": "ND-1203-712/1",
+        "nombre": "",
+        "cuenca": "Oro",
+        "tipo_derecho": "Subterranea",
+        "subterranea": true,
+        "surgente": false,
+        "titular": "SOCIEDAD GANADERA SANTA ROSA LTDA",
+        "estado": "Concedido",
+        "datum_orig": 1984,
+        "prof_m": 5.0,
+        "ne_m": null,
+        "nd_m": null,
+        "caudal_ls": 5.0,
+        "acuifero_ini": null,
+        "acuifero_fin": null,
+        "estrat": "",
+        "observaciones": "Profundidad 5 m, pozo de gran diámetro",
+        "expediente": "Si, con algo de inform.",
+        "fuente": "Derechos_de_Agua.xlsx",
+        "vol_mee_m3a": null,
+        "cod_mee": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          432677.0,
+          4128182.0
+        ]
+      },
+      "properties": {
+        "codigo": "ND-1203-718/1",
+        "nombre": "",
+        "cuenca": "Oro",
+        "tipo_derecho": "Subterranea",
+        "subterranea": true,
+        "surgente": false,
+        "titular": "PISCICULTURA TIERRA DEL FUEGO S.A.",
+        "estado": "Concedido",
+        "datum_orig": 1984,
+        "prof_m": 84.0,
+        "ne_m": null,
+        "nd_m": null,
+        "caudal_ls": 34.0,
+        "acuifero_ini": null,
+        "acuifero_fin": null,
+        "estrat": "",
+        "observaciones": "Entubamiento 8'' (20 cm) Profundidad 84 m",
+        "expediente": "Si, con estrati y Prueba Bbeo.",
+        "fuente": "Derechos_de_Agua.xlsx",
+        "vol_mee_m3a": 407445.0,
+        "cod_mee": "OB-1203-94"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          409225.0,
+          4093261.0
+        ]
+      },
+      "properties": {
+        "codigo": "ND-1203-719",
+        "nombre": "Nova Austral",
+        "cuenca": "Oro",
+        "tipo_derecho": "Subterránea",
+        "subterranea": true,
+        "surgente": false,
+        "titular": "NOVA AUSTRAL S.A",
+        "estado": "No concedido",
+        "datum_orig": 1984,
+        "prof_m": 62.0,
+        "ne_m": 2.14,
+        "nd_m": 40.76,
+        "caudal_ls": 2.0,
+        "acuifero_ini": null,
+        "acuifero_fin": null,
+        "estrat": "",
+        "observaciones": "Pozo profundo (62 m), con estratigrafía",
+        "expediente": "Prueba de bombeo y estrati.",
+        "fuente": "Expediente DGA ND-1203-719",
+        "vol_mee_m3a": null,
+        "cod_mee": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          450184.0,
+          4144485.0
+        ]
+      },
+      "properties": {
+        "codigo": "ND-1203-723",
+        "nombre": "Cabaña Sur ZG-3 (IPROMSA)",
+        "cuenca": "Oro",
+        "tipo_derecho": "Subterránea",
+        "subterranea": true,
+        "surgente": true,
+        "titular": "SOCIEDAD AGRÍCOLA GANADERA XIRASOL SpA",
+        "estado": "No concedido",
+        "datum_orig": 1984,
+        "prof_m": 140.0,
+        "ne_m": null,
+        "nd_m": null,
+        "caudal_ls": null,
+        "acuifero_ini": null,
+        "acuifero_fin": null,
+        "estrat": "",
+        "observaciones": "Pozo profundo (140 m), surgente, con estratigrafía",
+        "expediente": "Prueba de bombeo y estrati.",
+        "fuente": "Expediente DGA ND-1203-723",
+        "vol_mee_m3a": null,
+        "cod_mee": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          458714.0,
+          4142414.0
+        ]
+      },
+      "properties": {
+        "codigo": "ND-1203-724",
+        "nombre": "Lautaro Sur 7 (IPROMSA)",
+        "cuenca": "Oro",
+        "tipo_derecho": "Subterránea",
+        "subterranea": true,
+        "surgente": true,
+        "titular": "SOCIEDAD AGRÍCOLA GANADERA XIRASOL SpA",
+        "estado": "No concedido",
+        "datum_orig": 1984,
+        "prof_m": 80.0,
+        "ne_m": null,
+        "nd_m": null,
+        "caudal_ls": null,
+        "acuifero_ini": null,
+        "acuifero_fin": null,
+        "estrat": "",
+        "observaciones": "Pozo profundo (80 m), surgente, con estratigrafía",
+        "expediente": "Prueba de bombeo y estrati.",
+        "fuente": "Expediente DGA ND-1203-724",
+        "vol_mee_m3a": null,
+        "cod_mee": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          449672.0,
+          4148398.0
+        ]
+      },
+      "properties": {
+        "codigo": "ND-1203-725",
+        "nombre": "",
+        "cuenca": "Oro",
+        "tipo_derecho": "Subterránea",
+        "subterranea": true,
+        "surgente": true,
+        "titular": "SOCIEDAD AGRÍCOLA GANADERA XIRASOL SpA",
+        "estado": "No concedido",
+        "datum_orig": 1984,
+        "prof_m": 186.0,
+        "ne_m": null,
+        "nd_m": null,
+        "caudal_ls": null,
+        "acuifero_ini": null,
+        "acuifero_fin": null,
+        "estrat": "",
+        "observaciones": "Pozo profundo (186 m), surgente, con estratigrafía",
+        "expediente": "Prueba de bombeo y estrati.",
+        "fuente": "Derechos_de_Agua.xlsx",
+        "vol_mee_m3a": null,
+        "cod_mee": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          462447.0,
+          4095710.0
+        ]
+      },
+      "properties": {
+        "codigo": "ND-1203-727",
+        "nombre": "",
+        "cuenca": "Oro",
+        "tipo_derecho": "Subterránea",
+        "subterranea": true,
+        "surgente": false,
+        "titular": "JORGE CANEPA FAJARDO",
+        "estado": "No concedido",
+        "datum_orig": 1984,
+        "prof_m": 26.0,
+        "ne_m": null,
+        "nd_m": null,
+        "caudal_ls": null,
+        "acuifero_ini": null,
+        "acuifero_fin": null,
+        "estrat": "",
+        "observaciones": "Pozo no tan profundo (26 m),  con estratigrafía",
+        "expediente": "Prueba de bombeo y estrati.",
+        "fuente": "Derechos_de_Agua.xlsx",
+        "vol_mee_m3a": null,
+        "cod_mee": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          462300.0,
+          4095748.0
+        ]
+      },
+      "properties": {
+        "codigo": "ND-1203-728",
+        "nombre": "",
+        "cuenca": "Oro",
+        "tipo_derecho": "Subterránea",
+        "subterranea": true,
+        "surgente": false,
+        "titular": "JORGE CANEPA FAJARDO",
+        "estado": "No concedido",
+        "datum_orig": 1984,
+        "prof_m": 27.0,
+        "ne_m": null,
+        "nd_m": null,
+        "caudal_ls": null,
+        "acuifero_ini": null,
+        "acuifero_fin": null,
+        "estrat": "",
+        "observaciones": "Pozo no tan profundo (27 m),  con estratigrafía",
+        "expediente": "Prueba de bombeo y estrati.",
+        "fuente": "Derechos_de_Agua.xlsx",
+        "vol_mee_m3a": null,
+        "cod_mee": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          479709.0,
+          4076333.0
+        ]
+      },
+      "properties": {
+        "codigo": "ND-1203-739",
+        "nombre": "Bahía Inútil",
+        "cuenca": "Oro",
+        "tipo_derecho": "Subterránea",
+        "subterranea": true,
+        "surgente": false,
+        "titular": "ALEJANDRO ALFONSO FERNÁNDEZ VOGELHUMMER",
+        "estado": "No concedido",
+        "datum_orig": 1984,
+        "prof_m": 30.0,
+        "ne_m": 5.3,
+        "nd_m": null,
+        "caudal_ls": null,
+        "acuifero_ini": null,
+        "acuifero_fin": null,
+        "estrat": "",
+        "observaciones": "Pozo no tan profundo (30 m),  con estratigrafía",
+        "expediente": "Prueba de bombeo y estrati.",
+        "fuente": "Expediente DGA ND-1203-739",
+        "vol_mee_m3a": null,
+        "cod_mee": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          450184.0,
+          4144485.0
+        ]
+      },
+      "properties": {
+        "codigo": "ND-1203-747",
+        "nombre": "",
+        "cuenca": "Oro",
+        "tipo_derecho": "SUBTERRÁNEA",
+        "subterranea": true,
+        "surgente": true,
+        "titular": "SOCIEDAD AGRÍCOLA GANADERA XIRASOL SpA",
+        "estado": "No concedido",
+        "datum_orig": 1984,
+        "prof_m": 140.0,
+        "ne_m": null,
+        "nd_m": null,
+        "caudal_ls": null,
+        "acuifero_ini": null,
+        "acuifero_fin": null,
+        "estrat": "",
+        "observaciones": "Pozo profundo (140 m), surgente, con estratigrafía",
+        "expediente": "Prueba de bombeo y estrati.",
+        "fuente": "Derechos_de_Agua.xlsx",
+        "vol_mee_m3a": null,
+        "cod_mee": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          462300.0,
+          4095748.0
+        ]
+      },
+      "properties": {
+        "codigo": "ND-1203-749",
+        "nombre": "",
+        "cuenca": "Oro",
+        "tipo_derecho": "SUBTERRÁNEA",
+        "subterranea": true,
+        "surgente": false,
+        "titular": "JORGE CANEPA FAJARDO",
+        "estado": "No concedido",
+        "datum_orig": 1984,
+        "prof_m": 27.0,
+        "ne_m": null,
+        "nd_m": null,
+        "caudal_ls": null,
+        "acuifero_ini": null,
+        "acuifero_fin": null,
+        "estrat": "",
+        "observaciones": "Pozo no tan profundo (27 m),  con estratigrafía",
+        "expediente": "Prueba de bombeo y estrati.",
+        "fuente": "Derechos_de_Agua.xlsx",
+        "vol_mee_m3a": null,
+        "cod_mee": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          462447.0,
+          4095710.0
+        ]
+      },
+      "properties": {
+        "codigo": "ND-1203-751",
+        "nombre": "",
+        "cuenca": "Oro",
+        "tipo_derecho": "SUBTERRÁNEA",
+        "subterranea": true,
+        "surgente": false,
+        "titular": "JORGE CANEPA FAJARDO",
+        "estado": "No concedido",
+        "datum_orig": 1984,
+        "prof_m": null,
+        "ne_m": null,
+        "nd_m": null,
+        "caudal_ls": null,
+        "acuifero_ini": null,
+        "acuifero_fin": null,
+        "estrat": "",
+        "observaciones": "nan",
+        "expediente": "SIN INFORMACION UTIL",
+        "fuente": "Derechos_de_Agua.xlsx",
+        "vol_mee_m3a": null,
+        "cod_mee": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          478948.0,
+          4157423.0
+        ]
+      },
+      "properties": {
+        "codigo": "ND-1203-758",
+        "nombre": "",
+        "cuenca": "Oro",
+        "tipo_derecho": "Subterránea",
+        "subterranea": true,
+        "surgente": false,
+        "titular": "Eulalia Vásquez Vidal",
+        "estado": "No concedido",
+        "datum_orig": 1984,
+        "prof_m": null,
+        "ne_m": null,
+        "nd_m": null,
+        "caudal_ls": null,
+        "acuifero_ini": null,
+        "acuifero_fin": null,
+        "estrat": "",
+        "observaciones": "nan",
+        "expediente": "Prueba de bombeo y estrati.",
+        "fuente": "Derechos_de_Agua.xlsx",
+        "vol_mee_m3a": null,
+        "cod_mee": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          477472.0,
+          4088879.0
+        ]
+      },
+      "properties": {
+        "codigo": "ND-1203-760",
+        "nombre": "",
+        "cuenca": "Oro",
+        "tipo_derecho": "Subterránea",
+        "subterranea": true,
+        "surgente": false,
+        "titular": "Sociedad Ganadera Arizona Limitada",
+        "estado": "No concedido",
+        "datum_orig": 1984,
+        "prof_m": null,
+        "ne_m": null,
+        "nd_m": null,
+        "caudal_ls": null,
+        "acuifero_ini": null,
+        "acuifero_fin": null,
+        "estrat": "",
+        "observaciones": "nan",
+        "expediente": "NO TIENE",
+        "fuente": "Derechos_de_Agua.xlsx",
+        "vol_mee_m3a": null,
+        "cod_mee": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          477472.0,
+          4088879.0
+        ]
+      },
+      "properties": {
+        "codigo": "ND-1203-763",
+        "nombre": "",
+        "cuenca": "Oro",
+        "tipo_derecho": "SUBTERRÁNEAS",
+        "subterranea": true,
+        "surgente": false,
+        "titular": "SOCIEDAD GANADERA ARIZONA LIMITADA",
+        "estado": "No concedido",
+        "datum_orig": 1984,
+        "prof_m": 18.0,
+        "ne_m": null,
+        "nd_m": null,
+        "caudal_ls": null,
+        "acuifero_ini": null,
+        "acuifero_fin": null,
+        "estrat": "",
+        "observaciones": "Pozo 18 m, con estratigafia",
+        "expediente": "solo estratigrafía, prueba de bombeo en palabras",
+        "fuente": "Derechos_de_Agua.xlsx",
+        "vol_mee_m3a": null,
+        "cod_mee": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          500362.0,
+          4100774.0
+        ]
+      },
+      "properties": {
+        "codigo": "ND-1203-765",
+        "nombre": "",
+        "cuenca": "Oro",
+        "tipo_derecho": "SUBTERRÁNEAS",
+        "subterranea": true,
+        "surgente": false,
+        "titular": "SOCIEDAD GANADERA ARIZONA LIMITADA",
+        "estado": "No concedido",
+        "datum_orig": 1984,
+        "prof_m": 48.0,
+        "ne_m": null,
+        "nd_m": null,
+        "caudal_ls": null,
+        "acuifero_ini": null,
+        "acuifero_fin": null,
+        "estrat": "",
+        "observaciones": "Pozo 48 m, con estratigafia",
+        "expediente": "solo estratigrafía, prueba de bombeo en palabras",
+        "fuente": "Derechos_de_Agua.xlsx",
+        "vol_mee_m3a": null,
+        "cod_mee": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          479092.0,
+          4142760.0
+        ]
+      },
+      "properties": {
+        "codigo": "VP-1203-199",
+        "nombre": "",
+        "cuenca": "Oro",
+        "tipo_derecho": "-",
+        "subterranea": false,
+        "surgente": false,
+        "titular": "LLAQUEDONA GREEN HYDROGEN SPA",
+        "estado": "No concedido",
+        "datum_orig": 1984,
+        "prof_m": null,
+        "ne_m": null,
+        "nd_m": null,
+        "caudal_ls": null,
+        "acuifero_ini": null,
+        "acuifero_fin": null,
+        "estrat": "",
+        "observaciones": "nan",
+        "expediente": "nan",
+        "fuente": "Derechos_de_Agua.xlsx",
+        "vol_mee_m3a": null,
+        "cod_mee": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          517571.0,
+          4132248.0
+        ]
+      },
+      "properties": {
+        "codigo": "VP-1203-98",
+        "nombre": "",
+        "cuenca": "Oro",
+        "tipo_derecho": "-",
+        "subterranea": false,
+        "surgente": false,
+        "titular": "EMPRESA NACIONAL DEL PETRÓLEO",
+        "estado": "No concedido",
+        "datum_orig": 1984,
+        "prof_m": null,
+        "ne_m": null,
+        "nd_m": null,
+        "caudal_ls": null,
+        "acuifero_ini": null,
+        "acuifero_fin": null,
+        "estrat": "",
+        "observaciones": "nan",
+        "expediente": "nan",
+        "fuente": "Derechos_de_Agua.xlsx",
+        "vol_mee_m3a": null,
+        "cod_mee": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          339910.0,
+          4205387.2
+        ]
+      },
+      "properties": {
+        "codigo": "INVERNADA-MON",
+        "nombre": "Pozo La Invernada",
+        "cuenca": "Penitente",
+        "tipo_derecho": "Monitoreo",
+        "subterranea": true,
+        "surgente": false,
+        "titular": "",
+        "estado": "Monitoreo",
+        "datum_orig": 1984,
+        "prof_m": null,
+        "ne_m": null,
+        "nd_m": null,
+        "caudal_ls": null,
+        "acuifero_ini": null,
+        "acuifero_fin": null,
+        "estrat": "",
+        "observaciones": "Pozo de monitoreo (pozo_nuevo.shp)",
+        "expediente": "",
+        "fuente": "pozo_nuevo.shp",
+        "vol_mee_m3a": null,
+        "cod_mee": ""
+      }
+    }
+  ]
+}
